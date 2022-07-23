@@ -1,0 +1,98 @@
+.hero{
+    background-image: url("../img/sea.png");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:  85vh;
+    padding-top: 70px;
+}
+.hero2{
+    background-image: url("../img/power.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:  85vh;
+    padding-top: 70px;
+}
+.hero3{
+    background-image: url("../img/sea3.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:  85vh;
+    padding-top: 70px;
+}
+#one-piece-logo{
+    position: relative;
+    padding-top: 25px;
+}
+#introp{
+    color: black;
+    padding-bottom: 10px;
+}
+#introh{
+    color: black;
+    padding-bottom: 10px;
+}
+#one_piece_logo{
+    width: 100px;
+}
+.sekai{
+    position: relative;
+    
+}
+#image1{
+    padding-top: 20px;
+}
+.myFooter{
+    background-color: #2662A2;
+    color: white;
+    min-height: 30vh;
+}
+#usefulLinks{
+    padding: 20px;
+}
+#footerlinks{
+    color: whitesmoke;
+
+}
+#footerbutton{
+    color: white;
+}
+#introp2{
+    color: rgb(7, 7, 7);
+}
+.card{
+    min-height: 50px;
+    border: 1px solid #bacdd8;
+    
+}
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
+.container{
+    padding: 15px;
+}
+#wanted{
+    width: 90%;
+    padding: 10px;
+    justify-content: center;
+}
+.nav-item{
+    font-size: 15px;
+    font-family: 'anime-ace';
+
+}
+#major{
+    font-family: 'anime-ace';
+}
+#minor{
+    font-family: 'open-sans';
+    font-size: 20px;
+}
+@font-face{
+    font-family: "anime-ace";
+    src: url(../fonts/anime-ace.regular.ttf);
+   
+}
